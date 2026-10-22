@@ -2,6 +2,8 @@
 
 A free web tool that scores how good a location is for opening a new business in Malaysia's Klang Valley.
 
+**Try the demo:** [bizlocation-demo.netlify.app](https://bizlocation-demo.netlify.app). It runs six real saved analyses, with no sign-up.
+
 ![BizLocation dashboard scoring a café location on Jalan Telawi, Bangsar](screenshots/overview.png)
 *A real analysis of a café location on Jalan Telawi, Bangsar, Kuala Lumpur.*
 
